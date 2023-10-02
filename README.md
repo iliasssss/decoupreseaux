@@ -9,10 +9,10 @@ Nom du Pole | Adresse réseau | Adresse de broadcast | Adresse de début de plag
 
 Nom du Pole | Adresse réseau | Adresse de broadcast | Adresse de début de plage | Adresse de fin de plage |
 |:-----|:-----|:----|:-----|:-----|
-|Le Pôle informatique (6 bureaux,  50 équipements au total) |172.16.1.0 | || |
-|Le Pôle Administratif (4 bureaux, environ 20 équipements au total) |172.16.1.64 | | | |
-|Le Pôle Technicien (4 bureaux, environ 15 équipements au total) |172.16.1.128|  |  |  |
-|Le Pôle développement (6 bureaux, environ 12 équipements au total) |172.16.1.192  | |  |  | 
+|Le Pôle informatique (6 bureaux,  50 équipements au total) |172.16.1.0 | 172.16.1.63 |172.16.1.1 |172.16.1.62 |
+|Le Pôle Administratif (4 bureaux, environ 20 équipements au total) | | | | |
+|Le Pôle Technicien (4 bureaux, environ 15 équipements au total) ||  |  |  |
+|Le Pôle développement (6 bureaux, environ 12 équipements au total) |  | |  |  | 
 
 *Pole informatique* : 2^6=64-2=62 62 adresses dispo pour le réseau 
 
